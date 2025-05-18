@@ -36,8 +36,8 @@
 ```python
 /*
 Program to implement to check whether Hamiltonian path exits in the given graph.
-Developed by: HIRUTHIK SUDHAKAR
-Register Number: 212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number: 212223240036
 */
 class Graph():
     def __init__(self, vertices):
