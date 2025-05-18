@@ -39,8 +39,8 @@
 ```python
 /*
 Program to implement to to find the solution of sudoku puzzle using Backtracking.
-Developed by: HIRUTHIK SUDHAKAR
-Register Number: 212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number: 212223240036
 */
 board = [
     [0, 0, 0, 8, 0, 0, 4, 0, 3],
