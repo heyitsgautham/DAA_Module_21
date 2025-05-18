@@ -32,8 +32,8 @@
 ```python
 /*
 Program to implement to find minimum steps to reach to specific cell in minimum moves by knight.
-Developed by: HIRUTHIK SUDHAKAR
-Register Number: 212223240054
+Developed by: GAUTHAM KRISHNA S
+Register Number: 212223240036
 */
 from collections import deque
 class cell:
